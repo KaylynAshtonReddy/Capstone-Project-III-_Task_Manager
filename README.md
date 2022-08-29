@@ -28,12 +28,9 @@ The aim of this project is to make use of text I/O, loops, lists, dictionaries, 
 
 ### Preview
 Start menu for the admin user.
+![admin image](https://user-images.githubusercontent.com/102606725/187215410-589269c4-8c68-478f-9788-7f760a93e183.png)
 
-![task_manager_menu SGrab](https://user-images.githubusercontent.com/98525884/160281713-886593d3-1435-4435-944f-ab4b3e6f6f11.png)
 
-Admin user's view of task statistics for registered users.
-
-![task_manager SGrab](https://user-images.githubusercontent.com/98525884/160281624-509e3a85-ab43-4ba1-863e-e1885310b6a2.png)
 
 ## Author
 
