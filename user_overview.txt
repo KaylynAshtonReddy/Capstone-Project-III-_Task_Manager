@@ -1,0 +1,36 @@
+
+      
+            See below task statistics 
+
+        Description                             Count
+    Total number of tasks generated  :          4
+    Total number of users registered :          15
+
+                        Statistics for user Admin                               
+    The total number of tasks       :           1
+    The percentage of the total 
+    amount of tasks which have been :           25%
+    assigned is                                
+    Percentage of completed tasks   :           100%
+    Percentage of incompleted tasks :           0%
+    Total number of tasks overdue & incomplete  0.0
+
+
+                        Statistics for user Ashton                               
+    The total number of tasks       :           1
+    The percentage of the total 
+    amount of tasks which have been :           25%
+    assigned is                                
+    Percentage of completed tasks   :           0%
+    Percentage of incompleted tasks :           0%
+    Total number of tasks overdue & incomplete  1.0
+
+
+                        Statistics for user Tanita                               
+    The total number of tasks       :           2
+    The percentage of the total 
+    amount of tasks which have been :           50%
+    assigned is                                
+    Percentage of completed tasks   :           100%
+    Percentage of incompleted tasks :           0%
+    Total number of tasks overdue & incomplete  0.0

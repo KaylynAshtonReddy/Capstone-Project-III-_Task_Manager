@@ -1,0 +1,11 @@
+
+        Statistics of the tasks 
+
+        Column header                        Statistics
+        The total number of tasks       :           4
+        Number of completed tasks       :           3
+        Number of incomplete tasks      :           1
+        Overdue and Incomplete          :           1
+        Percentage of incomplete tasks  :           25%
+        Number of overdue tasks         :           25%
+        

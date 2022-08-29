@@ -1,0 +1,4 @@
+1, Admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes 
+2, Ashton, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No 
+3, Tanita, Testing date, test date converter, 12 Apr 2021, 12 oct 2022, Yes 
+4, Tanita, Number 42, This is the meaning of life! Hitch Hiker, 12 oct 2022, 05 Mar 2022, Yes 
