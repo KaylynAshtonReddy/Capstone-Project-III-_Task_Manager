@@ -28,9 +28,8 @@ The aim of this project is to make use of text I/O, loops, lists, dictionaries, 
 
 ### Preview
 Start menu for the admin user.
+
 ![admin image](https://user-images.githubusercontent.com/102606725/187215410-589269c4-8c68-478f-9788-7f760a93e183.png)
-
-
 
 ## Author
 
