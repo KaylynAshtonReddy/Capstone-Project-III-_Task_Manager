@@ -35,8 +35,4 @@ Start menu for the admin user.
 
 Kaylyn Ashton Reddy - ashton.reddy7@gmail.com
 
-## License
-
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/Task-manager/blob/master/LICENSE).
-
 > Thank you for using the task manager :)
